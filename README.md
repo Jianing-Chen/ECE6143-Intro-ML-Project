@@ -1,6 +1,8 @@
 # YOLO: Real-Time Face Mask Detection
 
-Face mask detection using YOLO on Google colab
+* Name: Haoyang Pei &emsp;  NetID: hp2173
+
+* Name: Jianing Chen &emsp; NetID: jc10034
 
 
 ## Notebook
