@@ -4,6 +4,8 @@
 
 * Name: Jianing Chen &emsp; NetID: jc10034
 
+Highly recommended to open the project report by clicking on [this link](https://github.com/Jianing-Chen/ECE6143-Intro-ML-Project/), which is easier to read.
+
 
 ## Notebook
 
