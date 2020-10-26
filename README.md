@@ -26,3 +26,14 @@ https://drive.google.com/drive/folders/10F7nBmK0Jg2LSuzq8AbiofsHVjbimpEl?usp=sha
 Link to videos for test:
 
 https://drive.google.com/file/d/1Mr46IFlwMRvv2X2Ww0rUnsQmCSDB05Y0/view?usp=sharing
+
+## Trained Weights
+Link to YOLOv4 trained best weights:
+
+https://drive.google.com/file/d/1-C6HxzHk9ZD3O9FMshtk-Nvr9t88k9M_/view?usp=sharing
+
+Link to YOLOv3 trained best weights:
+
+https://drive.google.com/file/d/1-2bxIF8_e2P2wkeVrxyoqhdf_OyGvC8j/view?usp=sharing
+
+
