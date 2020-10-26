@@ -36,4 +36,12 @@ Link to YOLOv3 trained best weights:
 
 https://drive.google.com/file/d/1-2bxIF8_e2P2wkeVrxyoqhdf_OyGvC8j/view?usp=sharing
 
+## Makefiles
 
+Configuration files for YOLOv4:
+
+https://drive.google.com/drive/folders/1pGfaEKxmAFaIgEKKSXl_0zdsPAqR_nx3?usp=sharing
+
+Configuration files for YOLOv3:
+
+https://drive.google.com/drive/folders/1WiWKr5YMrdgKPtoBqb63wum7HHtZFSXj?usp=sharing
